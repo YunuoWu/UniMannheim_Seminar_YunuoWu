@@ -1,2 +1,2 @@
 # UniMannheim_Seminar_YunuoWu
-Store source code and script for seminar paper
+Store the source code and script for seminar paper
